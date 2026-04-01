@@ -1,7 +1,11 @@
 {
   "name": "pi-rpc-scan",
   "version": "1.0.0",
+  "description": "Scan Pi Network RPC قابلیت",
   "main": "scan.js",
+  "scripts": {
+    "start": "node scan.js"
+  },
   "dependencies": {
     "ethers": "^6.7.0"
   }
